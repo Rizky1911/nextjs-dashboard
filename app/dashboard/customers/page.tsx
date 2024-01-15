@@ -8,7 +8,7 @@ const page = () => {
   return (
     <div>
       <p>Customers Page</p>
-      <CustomersTable customers={customer}/>
+      {/* <CustomersTable customers={customer}/> */}
     </div>
   )
 }
